@@ -1,0 +1,22 @@
+{
+  "name": "frontend-driven-development-marketplace",
+  "owner": {
+    "name": "Jordan Barrand"
+  },
+  "metadata": {
+    "description": "Disciplined frontend development skills for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "frontend-driven-development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Jordyrock15/frontend-driven-development.git"
+      },
+      "description": "Senior engineer standards, codebase-aware architecture planning, visual verification, strict TypeScript, security, and parallel task orchestration for frontend development",
+      "version": "0.2.0",
+      "strict": true
+    }
+  ]
+}
