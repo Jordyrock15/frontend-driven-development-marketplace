@@ -14,8 +14,8 @@
         "source": "url",
         "url": "https://github.com/Jordyrock15/frontend-driven-development.git"
       },
-      "description": "Task classification, persistent context, codebase-aware architecture, verification loops, strict TypeScript, error recovery, and parallel task orchestration for frontend development",
-      "version": "0.3.0",
+      "description": "Task classification, persistent context, codebase-aware architecture, verification loops, strict TypeScript, error recovery, parallel task orchestration, bundle analysis, and git workflow for frontend development",
+      "version": "0.4.0",
       "strict": true
     }
   ]
