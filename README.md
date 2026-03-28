@@ -14,7 +14,7 @@ Claude Code plugin marketplace for [frontend-driven-development](https://github.
 
 ## What's Included
 
-- **frontend-driven-development** — 12 composable skills that enforce disciplined frontend development: senior engineer standards, codebase scanning, architecture planning, visual verification, strict TypeScript, security, testing, framework patterns, task orchestration, error recovery, bundle analysis, and git workflow.
+- **frontend-driven-development** — 12 composable skills that enforce disciplined frontend development: engineering standards, codebase scanning, architecture planning, task orchestration with sub-agent dispatch, workflow execution, strict TypeScript, framework patterns, testing, security, error recovery, bundle analysis, and git workflow.
 
 ## License
 
